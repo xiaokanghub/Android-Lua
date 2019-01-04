@@ -1,5 +1,5 @@
 # Android-Lua
-Lua decrypt<br>
+## Lua decrypt<br>
 # Lua types
 luac是lua编译后的字节码，文件头为0x1B 0x4C 0x75 0x61 0x51<br>
 luaJIT是另一个lua的实现版本（不是原作者写的），JIT是指Just-In-Time（即时解析运行），文件头是0x1B 0x4C 0x4A<br>
